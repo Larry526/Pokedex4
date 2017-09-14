@@ -59,9 +59,9 @@
 		05052AA11F66EF2700557E57 /* Pokedex4 */ = {
 			isa = PBXGroup;
 			children = (
-				05E124661F68A1CB001344DB /* Controller */,
-				05052AB81F67ACA100557E57 /* View */,
 				05052AB51F66F74800557E57 /* Model */,
+				05052AB81F67ACA100557E57 /* View */,
+				05E124661F68A1CB001344DB /* Controller */,
 				05052AA91F66EF2700557E57 /* Assets.xcassets */,
 				05052AAE1F66EF2700557E57 /* Info.plist */,
 			);
