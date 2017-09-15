@@ -33,7 +33,7 @@ class Pokemon {
     var name : String
     var pokedexID : Int
     
-    init(name:String, pokedexID: Int) {
+    init(name: String, pokedexID: Int) {
         self.name = name
         self.pokedexID = pokedexID
     }
