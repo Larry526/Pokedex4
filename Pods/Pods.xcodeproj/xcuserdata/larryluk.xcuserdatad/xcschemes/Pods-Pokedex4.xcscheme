@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "05052A9E1F66EF2700557E57"
-               BuildableName = "Pokedex4.app"
-               BlueprintName = "Pokedex4"
-               ReferencedContainer = "container:Pokedex4.xcodeproj">
+               BlueprintIdentifier = "7A078896B9EC619DB4A594741E18E764"
+               BuildableName = "Pods_Pokedex4.framework"
+               BlueprintName = "Pods-Pokedex4"
+               ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -30,15 +30,6 @@
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
       </Testables>
-      <MacroExpansion>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "05052A9E1F66EF2700557E57"
-            BuildableName = "Pokedex4.app"
-            BlueprintName = "Pokedex4"
-            ReferencedContainer = "container:Pokedex4.xcodeproj">
-         </BuildableReference>
-      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -53,16 +44,15 @@
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
+      <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "05052A9E1F66EF2700557E57"
-            BuildableName = "Pokedex4.app"
-            BlueprintName = "Pokedex4"
-            ReferencedContainer = "container:Pokedex4.xcodeproj">
+            BlueprintIdentifier = "7A078896B9EC619DB4A594741E18E764"
+            BuildableName = "Pods_Pokedex4.framework"
+            BlueprintName = "Pods-Pokedex4"
+            ReferencedContainer = "container:Pods.xcodeproj">
          </BuildableReference>
-      </BuildableProductRunnable>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -72,16 +62,6 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "05052A9E1F66EF2700557E57"
-            BuildableName = "Pokedex4.app"
-            BlueprintName = "Pokedex4"
-            ReferencedContainer = "container:Pokedex4.xcodeproj">
-         </BuildableReference>
-      </BuildableProductRunnable>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">
